@@ -1,0 +1,15 @@
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\bin\Debug\net6.0\Programm.exe
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\bin\Debug\net6.0\Programm.deps.json
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\bin\Debug\net6.0\Programm.runtimeconfig.json
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\bin\Debug\net6.0\Programm.dll
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\bin\Debug\net6.0\Programm.pdb
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.csproj.AssemblyReference.cache
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.AssemblyInfoInputs.cache
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.AssemblyInfo.cs
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.dll
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\refint\Programm.dll
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.pdb
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\Programm.genruntimeconfig.cache
+D:\YandexDisk\Всякое важное\=Документы\Курс тестировщик\03 Языки программирования\final\Programm\obj\Debug\net6.0\ref\Programm.dll
