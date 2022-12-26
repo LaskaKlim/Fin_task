@@ -1,1 +1,1 @@
-![Схема](diagr.jpg)
+![](diargam.png)
